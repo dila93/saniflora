@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap");
+
+.parrafo-saniflora {
+  color: black;
+  font-family: "Yanone Kaffeesatz";
+  text-align: center;
+  font-size: 16px;
+  width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  /* For mobile phones: */
+  .parrafo-saniflora {
+    text-align: left;
+    width: 90%;
+    font-size: 20px;
+    font-weight: bold;
+  }
+}

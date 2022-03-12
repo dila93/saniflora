@@ -1,0 +1,32 @@
+.button-saniflora {
+  display: flex;
+  background: transparent;
+  border: 2px solid #24352b;
+  border-radius: 50px;
+  color: #24352b;
+  margin: 4vh 0 4vh 0;
+  padding: 1vh 2vw 1vh 2vw;
+  width: 160px;
+  transition: width 0.2s, background 0.5s, padding 0.5s, color 0s;
+}
+
+.button-saniflora:hover {
+  cursor: pointer;
+  padding: 1vh 2.3vw 1vh 2.3vw;
+  background-color: #24352b;
+  color: white;
+}
+
+.button-saniflora-text {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+@media only screen and (min-width: 768px) {
+  .button-saniflora {
+    text-align: left;
+  }
+}
