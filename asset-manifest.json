@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/saniflora/static/css/main.073c9b0a.css",
-    "main.js": "/saniflora/static/js/main.3f1b612d.js",
+    "main.css": "/saniflora/static/css/main.fa934cfb.css",
+    "main.js": "/saniflora/static/js/main.e6addc09.js",
     "static/js/787.082dc0db.chunk.js": "/saniflora/static/js/787.082dc0db.chunk.js",
-    "static/media/logo.svg": "/saniflora/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/backflora.gif": "/saniflora/static/media/backflora.46e6b9f5f27469afa878.gif",
     "index.html": "/saniflora/index.html",
-    "main.073c9b0a.css.map": "/saniflora/static/css/main.073c9b0a.css.map",
-    "main.3f1b612d.js.map": "/saniflora/static/js/main.3f1b612d.js.map",
+    "main.fa934cfb.css.map": "/saniflora/static/css/main.fa934cfb.css.map",
+    "main.e6addc09.js.map": "/saniflora/static/js/main.e6addc09.js.map",
     "787.082dc0db.chunk.js.map": "/saniflora/static/js/787.082dc0db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3f1b612d.js"
+    "static/css/main.fa934cfb.css",
+    "static/js/main.e6addc09.js"
   ]
 }
